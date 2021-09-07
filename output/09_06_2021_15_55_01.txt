@@ -1,0 +1,3 @@
+google.com:{'decision': 'Not Suspicious', 'total_votes': {'harmless': 191, 'malicious': 35}}
+msn.com:{'decision': 'Suspicious', 'total_votes': {'harmless': 0, 'malicious': 0}}
+youtube.com:{'decision': 'Not Suspicious', 'total_votes': {'harmless': 108, 'malicious': 12}}
